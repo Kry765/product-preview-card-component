@@ -1,0 +1,15 @@
+:root {
+  /*background-color*/
+  --background-cream: #f2eae2;
+  --background-white: #ffffff;
+  /*text-color*/
+  --text-color-gray: #6c7289;
+  --text-color-black: #1c232b;
+  --text-color-green-500: #3d8168;
+  --text-color-green-700: #1a4032;
+  /*font family*/
+  --header-text-family: "Fraunces Bold";
+  --header-line-height: "100%";
+  --present-text-family: "Montserrat";
+  --paragrapg-text-family: "Montserrat";
+}
