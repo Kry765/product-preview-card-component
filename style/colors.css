@@ -14,7 +14,7 @@
   --space-100: 8px;
   --space-50: 4px;
   /* typography */
-  --font-heading: "Fraunces", serif;
+  --font-heading: "Fraunces", sans-serif;
   --font-body: "Montserrat", sans-serif;
 
   --font-weight-bold: 700;
