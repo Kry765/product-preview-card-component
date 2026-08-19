@@ -3,25 +3,27 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: auto;
-  height: 100vh;
+  height: 100dvh;
   background-color: var(--color-cream);
 }
 
 .card {
-  margin: 0 1em;
   background-color: var(--color-white);
-
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  overflow: hidden;
+  margin: 0 1em;
+  .card__media {
+    display: block;
+  }
   .card__image {
-    border-top-right-radius: 12px;
-    border-top-left-radius: 12px;
     width: 100%;
   }
   .card__content {
     display: flex;
     flex-direction: column;
-    gap: 24px;
-    padding: 1em 2.4em;
+    gap: var(--space-300);
+    padding: var(--space-400);
   }
   .card__category {
     text-transform: uppercase;
@@ -51,7 +53,7 @@ body {
   .card__price {
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: var(--space-200);
     .card__price--cut {
       font-size: var(--font-size-1);
       font-family: var(--font-heading);
@@ -70,7 +72,7 @@ body {
   .card__btn {
     display: flex;
     justify-content: center;
-    gap: 8px;
+    gap: var(--space-100);
     background-color: var(--color-green-500);
     color: var(--color-white);
     font-family: var(--font-body);
@@ -78,5 +80,8 @@ body {
     padding: 1em 2em;
     border-radius: 8px;
     border: none;
+    .card__btn--icon {
+      font-weight: var(--font-weight-bold);
+    }
   }
 }
