@@ -1,0 +1,35 @@
+:root {
+  /* colors */
+  --color-cream: #f2eae2;
+  --color-white: #ffffff;
+  --color-gray: #6c7289;
+  --color-black: #1c232b;
+  --color-green-500: #3d8168;
+  --color-green-700: #1a4032;
+  /* spacing */
+  --space-500: 40px;
+  --space-400: 32px;
+  --space-300: 24px;
+  --space-200: 16px;
+  --space-100: 8px;
+  --space-50: 4px;
+  /* typography */
+  --font-heading: "Fraunces", sans-serif;
+  --font-body: "Montserrat", sans-serif;
+
+  --font-weight-bold: 700;
+  --font-weight-medium: 500;
+
+  --font-size-1: 32px;
+  --font-size-2: 14px;
+  --font-size-3: 13px;
+  --font-size-4: 12px;
+
+  --line-height-100: 1;
+  --line-height-110: 1.1;
+  --line-height-120: 1.2;
+  --line-height-160: 1.6;
+
+  --letter-spacing-normal: 0px;
+  --letter-spacing-wide: 5px;
+}
