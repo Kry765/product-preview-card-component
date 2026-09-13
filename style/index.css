@@ -92,8 +92,11 @@ body {
   }
 }
 
-/* Desktoo device */
+/* Tablet device */
 @media (min-width: 768px) {
+  body {
+    height: 80dvh;
+  }
   .card {
     display: flex;
     height: auto;
@@ -105,5 +108,12 @@ body {
       flex: 0 0 50%;
       min-width: 0;
     }
+  }
+}
+
+/* Desktop device */
+@media (min-width: 1400px) {
+  body {
+    height: 100dvh;
   }
 }

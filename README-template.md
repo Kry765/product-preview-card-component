@@ -17,12 +17,18 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![Product preview card screenshot](./screenshot.jpg)
+### Desktop
+
+![Product preview card screenshot desktop](./sc1.png)
+
+### Mobile
+
+![Product preview card screenshot mobile](./ss2.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Kry765/product-preview-card-component
+- Live Site URL: https://kry765.github.io/product-preview-card-component/
 
 ## My process
 
