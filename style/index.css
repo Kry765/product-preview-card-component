@@ -56,20 +56,20 @@ body {
     display: flex;
     align-items: center;
     gap: var(--space-200);
-    .card__price--cut {
-      font-size: var(--font-size-1);
-      font-family: var(--font-heading);
-      line-height: var(--line-height-100);
-      font-weight: var(--font-weight-bold);
-      color: var(--color-green-500);
-    }
-    .card__price--regural {
-      font-size: var(--font-size-5);
-      font-family: var(--font-body);
-      line-height: var(--line-height-100);
-      font-weight: var(--font-weight-medium);
-      color: var(--color-gray);
-    }
+  }
+  .card__price-cut {
+    font-size: var(--font-size-1);
+    font-family: var(--font-heading);
+    line-height: var(--line-height-100);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-green-500);
+  }
+  .card__price-regural {
+    font-size: var(--font-size-5);
+    font-family: var(--font-body);
+    line-height: var(--line-height-100);
+    font-weight: var(--font-weight-medium);
+    color: var(--color-gray);
   }
   .card__button {
     display: flex;
@@ -82,13 +82,13 @@ body {
     padding: 1em 2em;
     border-radius: 8px;
     border: none;
-    .card__button--icon {
-      font-weight: var(--font-weight-bold);
-    }
   }
   .card__button:hover {
     cursor: pointer;
     background-color: var(--color-green-700);
+  }
+  .card__button-icon {
+    font-weight: var(--font-weight-bold);
   }
 }
 
