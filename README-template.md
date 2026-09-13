@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-4H8AR1UPFN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,18 +13,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Product preview card screenshot](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add your solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -32,17 +30,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Variables
 - Flexbox
 - Mobile-first workflow
 
 ### Continued development
 
-I must create a lot of new project with frontend mention, when I must solved more problem with responsive web design, becauses i have problem with grid system, and all layout I create with flexbox.
+I plan to keep building more Frontend Mentor projects to improve my responsive design skills. In particular, I want to get more comfortable with CSS Grid, since so far I've relied mainly on Flexbox for layout and want to be able to choose the right tool for each situation.
 
 ### AI Collaboration
 
-I use ChatGPT to optimize my code, and find place, witch I must correct. AI was helpful for write readme
+I used ChatGPT to help optimize my code and point out areas that needed corrections. It was also helpful for writing this README.
 
 ## Author
 
